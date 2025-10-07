@@ -6,7 +6,11 @@
         "price": 79.99,
         "category": "Shoes",
         "image": "https://picsum.photos/id/1011/400/300",
-        "tags": ["Fashion", "Sport"]
+        "tags": [
+            { "id": 1, "name": "Fashion" },
+            { "id": 2, "name": "Sport" },
+            { "id": 3, "name": "TagNuevo" }
+        ]
     },
     {
         "id": 2,
@@ -15,7 +19,10 @@
         "price": 59.99,
         "category": "Accessories",
         "image": "https://picsum.photos/id/1025/400/300",
-        "tags": ["Travel", "Fashion"]
+        "tags": [
+            { "id": 4, "name": "Travel" },
+            { "id": 1, "name": "Fashion" }
+        ]
     },
     {
         "id": 3,
@@ -24,7 +31,10 @@
         "price": 129.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1035/400/300",
-        "tags": ["Tech", "Fitness"]
+        "tags": [
+            { "id": 5, "name": "Tech" },
+            { "id": 6, "name": "Fitness" }
+        ]
     },
     {
         "id": 4,
@@ -33,7 +43,10 @@
         "price": 49.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1062/400/300",
-        "tags": ["Gaming", "Tech"]
+        "tags": [
+            { "id": 7, "name": "Gaming" },
+            { "id": 5, "name": "Tech" }
+        ]
     },
     {
         "id": 5,
@@ -42,7 +55,10 @@
         "price": 199.99,
         "category": "Furniture",
         "image": "https://picsum.photos/id/1077/400/300",
-        "tags": ["Office", "Home"]
+        "tags": [
+            { "id": 8, "name": "Office" },
+            { "id": 9, "name": "Home" }
+        ]
     },
     {
         "id": 6,
@@ -51,7 +67,10 @@
         "price": 39.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1084/400/300",
-        "tags": ["Music", "Portable"]
+        "tags": [
+            { "id": 10, "name": "Music" },
+            { "id": 11, "name": "Portable" }
+        ]
     },
     {
         "id": 7,
@@ -60,7 +79,10 @@
         "price": 29.99,
         "category": "Accessories",
         "image": "https://picsum.photos/id/1081/400/300",
-        "tags": ["Office", "Tech"]
+        "tags": [
+            { "id": 8, "name": "Office" },
+            { "id": 5, "name": "Tech" }
+        ]
     },
     {
         "id": 8,
@@ -69,7 +91,10 @@
         "price": 149.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1059/400/300",
-        "tags": ["Music", "Tech"]
+        "tags": [
+            { "id": 10, "name": "Music" },
+            { "id": 5, "name": "Tech" }
+        ]
     },
     {
         "id": 9,
@@ -78,7 +103,10 @@
         "price": 24.99,
         "category": "Fashion",
         "image": "https://picsum.photos/id/1005/400/300",
-        "tags": ["Fashion", "Travel"]
+        "tags": [
+            { "id": 1, "name": "Fashion" },
+            { "id": 4, "name": "Travel" }
+        ]
     },
     {
         "id": 10,
@@ -87,7 +115,10 @@
         "price": 34.99,
         "category": "Furniture",
         "image": "https://picsum.photos/id/1015/400/300",
-        "tags": ["Home", "Office"]
+        "tags": [
+            { "id": 9, "name": "Home" },
+            { "id": 8, "name": "Office" }
+        ]
     },
     {
         "id": 11,
@@ -96,7 +127,10 @@
         "price": 89.99,
         "category": "Clothing",
         "image": "https://picsum.photos/id/1022/400/300",
-        "tags": ["Fashion", "Winter"]
+        "tags": [
+            { "id": 1, "name": "Fashion" },
+            { "id": 12, "name": "Winter" }
+        ]
     },
     {
         "id": 12,
@@ -105,7 +139,10 @@
         "price": 99.99,
         "category": "Appliances",
         "image": "https://picsum.photos/id/1039/400/300",
-        "tags": ["Kitchen", "Appliances"]
+        "tags": [
+            { "id": 13, "name": "Kitchen" },
+            { "id": 14, "name": "Appliances" }
+        ]
     },
     {
         "id": 13,
@@ -114,7 +151,10 @@
         "price": 44.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1043/400/300",
-        "tags": ["Office", "Tech"]
+        "tags": [
+            { "id": 8, "name": "Office" },
+            { "id": 5, "name": "Tech" }
+        ]
     },
     {
         "id": 14,
@@ -123,7 +163,10 @@
         "price": 29.99,
         "category": "Sports",
         "image": "https://picsum.photos/id/1049/400/300",
-        "tags": ["Fitness", "Wellness"]
+        "tags": [
+            { "id": 6, "name": "Fitness" },
+            { "id": 15, "name": "Wellness" }
+        ]
     },
     {
         "id": 15,
@@ -132,7 +175,10 @@
         "price": 399.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1052/400/300",
-        "tags": ["Tech", "Home"]
+        "tags": [
+            { "id": 5, "name": "Tech" },
+            { "id": 9, "name": "Home" }
+        ]
     },
     {
         "id": 16,
@@ -141,7 +187,10 @@
         "price": 69.99,
         "category": "Shoes",
         "image": "https://picsum.photos/id/1067/400/300",
-        "tags": ["Sport", "Fitness"]
+        "tags": [
+            { "id": 2, "name": "Sport" },
+            { "id": 6, "name": "Fitness" }
+        ]
     },
     {
         "id": 17,
@@ -150,7 +199,10 @@
         "price": 39.99,
         "category": "Accessories",
         "image": "https://picsum.photos/id/1060/400/300",
-        "tags": ["Fashion", "Classic"]
+        "tags": [
+            { "id": 1, "name": "Fashion" },
+            { "id": 16, "name": "Classic" }
+        ]
     },
     {
         "id": 18,
@@ -159,7 +211,10 @@
         "price": 299.99,
         "category": "Furniture",
         "image": "https://picsum.photos/id/1074/400/300",
-        "tags": ["Home", "Dining"]
+        "tags": [
+            { "id": 9, "name": "Home" },
+            { "id": 17, "name": "Dining" }
+        ]
     },
     {
         "id": 19,
@@ -167,8 +222,11 @@
         "description": "Hervidor eléctrico rápido y seguro.",
         "price": 24.99,
         "category": "Appliances",
-        "image": "https://picsum.photos/id/1085/400/300",
-        "tags": ["Kitchen", "Appliances"]
+        "image": "https://picsum.photos/id/1057/300/300",
+        "tags": [
+            { "id": 13, "name": "Kitchen" },
+            { "id": 14, "name": "Appliances" }
+        ]
     },
     {
         "id": 20,
@@ -177,6 +235,9 @@
         "price": 499.99,
         "category": "Electronics",
         "image": "https://picsum.photos/id/1056/400/300",
-        "tags": ["Tech", "Photography"]
+        "tags": [
+            { "id": 5, "name": "Tech" },
+            { "id": 18, "name": "Photography" }
+        ]
     }
 ]

@@ -1,11 +1,11 @@
-type Product = {
+type Producttype = {
     id: string;
     name: string;
     description: string;
     price: number;
     category: string;
     image: string;
-    tags: string;
+    tags: { id: number; name: string }[];
 };
 
-export type { Product };
+export type { Producttype };
